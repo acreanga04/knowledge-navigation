@@ -1,0 +1,5 @@
+@media print {
+    .knowledge-parent-print-hidden {
+        display: none !important;
+    }
+}

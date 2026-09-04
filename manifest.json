@@ -1,7 +1,7 @@
 {
   "id": "knowledge-navigation",
   "name": "Knowledge Navigation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minAppVersion": "1.5.0",
   "description": "Custom parent-child knowledge navigation.",
   "author": "Custom",
